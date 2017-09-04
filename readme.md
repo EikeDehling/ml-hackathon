@@ -12,7 +12,14 @@ installed on your laptop. The dataset is included in the repository and jupyter 
 The docker/jupyter environment is fired up using a small shell script:
 
 ```
- $ ./start.sh
+   $ ./start.sh
+
+   ...
+
+    Copy/paste this URL into your browser when you connect for the first time,
+       to login with a token:
+          http://localhost:8888/?token=575a53d5c6c8256093550b65c0f24777fe427986143e55d8
+
 ```
 
 The script outputs some startup info and finally a link with token, with which you can access the
