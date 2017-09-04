@@ -16,9 +16,9 @@ The docker/jupyter environment is fired up using a small shell script:
 
    ...
 
-    Copy/paste this URL into your browser when you connect for the first time,
-       to login with a token:
-          http://localhost:8888/?token=575a53d5c6c8256093550b65c0f24777fe427986143e55d8
+   Copy/paste this URL into your browser when you connect for the first time,
+      to login with a token:
+         http://localhost:8888/?token=575a53d5c6c8256093550b65c0f24777fe427986143e55d8
 
 ```
 
