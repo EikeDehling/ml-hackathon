@@ -12,6 +12,7 @@ installed on your laptop. The dataset is included in the repository and jupyter 
 The docker/jupyter environment is fired up using a small shell script:
 
 ```
+
    $ ./start.sh
 
    ...
@@ -30,6 +31,16 @@ notebook environment. You should open that link (click or copy/paste) in your we
 After opening the notebook environment, you'll see a folder list. Go into the "work" folder and
 you'll see an example notebook and the dataset. Start by checking out the example notebook, then
 start trying out your own data analysis ideas. (You can create a duplicate if you want)
+
+
+## Libraries
+
+The main libraries we're using in this hackaton are pandas, seaborn and sklearn. If you want to look at
+documentation or read up on details, see here:
+
+- Pandas (http://pandas.pydata.org/) which is best described as data-handling library, a python DataFrame
+- Seaborn (https://seaborn.pydata.org/) which is a data visualization library
+- Scikit-learn (http://scikit-learn.org/) the python machine learning library
 
 
 ## Dataset
