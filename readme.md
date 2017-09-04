@@ -1,9 +1,32 @@
 # Machine learning hackathon
 
+In this machine learning hackathon we'll explore a dataset about cycle sharing, first part of the day
+is going to be exploratory analysis, second part of the day we will do modelling and predictions.
+
+In this hackathon we're using jupyter notebooks running in a docker container, so you'll need docker
+installed on your laptop. The dataset is included in the repository and jupyter environment.
+
+
+## Getting started
+
+The docker/jupyter environment is fired up using a small shell script:
+
+```
+ $ ./start.sh
+```
+
+The script outputs some startup info and finally a link with token, with which you can access the
+notebook environment. You should open that link (click or copy/paste) in your webbrowser.
+
+After opening the notebook environment, you'll see a folder list. Go into the "work" folder and
+you'll see an example notebook and the dataset. Start by checking out the example notebook, then
+start trying out your own data analysis ideas. (You can create a duplicate if you want)
+
+
+## Dataset
+
 Pronto cycle share dataset: 
 - https://www.kaggle.com/pronto/cycle-share-dataset
-
-## Data
 
     Station dataset
         station_id: station ID number
