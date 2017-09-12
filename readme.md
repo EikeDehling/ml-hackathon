@@ -9,7 +9,14 @@ installed on your laptop. The dataset is included in the repository and jupyter 
 
 ## Getting started
 
-The docker/jupyter environment is fired up using a small shell script:
+1. Clone the ml-hackathon directory to your machine 
+
+```
+   git clone git@github.com:EikeDehling/ml-hackathon.git
+
+```
+
+2. The docker/jupyter environment is fired up using a small shell script:
 
 ```
 
@@ -23,12 +30,12 @@ The docker/jupyter environment is fired up using a small shell script:
 
 ```
 
-The script outputs some startup info and finally a link with token, with which you can access the
+3. The script outputs some startup info and finally a link with token, with which you can access the
 notebook environment. You should open that link (click or copy/paste) in your webbrowser.
 
 ![Jupyter Home](https://github.com/EikeDehling/ml-hackathon/raw/master/jupyter-home.png "Jupyter Home")
 
-After opening the notebook environment, you'll see a folder list. Go into the "work" folder and
+4. After opening the notebook environment, you'll see a folder list. Go into the "work" folder and
 you'll see an example notebook and the dataset. Start by checking out the example notebook, then
 start trying out your own data analysis ideas. (You can create a duplicate if you want)
 
@@ -60,3 +67,5 @@ The stations data can be slightly ambiguous, so we'll list the fields and their 
 - modification_date: most recent date station was modified
 - current_dockcount: number of docks on 8/31/2016
 - decommission_date: date station was decommissioned
+
+Source: https://www.kaggle.com/pronto/cycle-share-dataset
