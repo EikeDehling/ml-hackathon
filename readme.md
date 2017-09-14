@@ -69,3 +69,10 @@ The stations data can be slightly ambiguous, so we'll list the fields and their 
 - decommission_date: date station was decommissioned
 
 Source: https://www.kaggle.com/pronto/cycle-share-dataset
+
+## Inspiration
+
+Some ideas worth exploring:
+
+- What is the most popular bike route?
+- How are bike uses or routes affected by user characteristics, station features, and weather?
