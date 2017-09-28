@@ -51,7 +51,6 @@ documentation or read up on details, see here:
 - Seaborn (https://seaborn.pydata.org/) which is a data visualization library
 - Scikit-learn (http://scikit-learn.org/) the python machine learning library
 
-
 ## Dataset
 
 The dataset in this hackathon is from a cycle sharing project in seattle. It includes information on
@@ -76,3 +75,7 @@ Some ideas worth exploring:
 
 - What is the most popular bike route?
 - How are bike uses or routes affected by user characteristics, station features, and weather?
+
+## Feedback
+
+Please let us know how you liked the Hackaton: http://bit.ly/2k4b9TH
